@@ -33,7 +33,7 @@ Object-Relational Mapping (ORM) with Hibernate.
   <li>Java</li>
   <li>Hibernate (JPA)</li>
   <li>Maven</li>
-  <li>Relational Database (MySQL or any SQL database)</li>
+  <li>Relational Database (MySQL)</li>
 </ul>
 
 <h2>Project Structure</h2>
